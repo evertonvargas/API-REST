@@ -1,20 +1,17 @@
 ## :computer: Criando API REST 
 Esse projeto permitiu entender melhor como funcionam os https verbs e sua associação com o CRUD de um database. Entendi melhor também request e response, assim como, o app.route() do expressjs.
-<br>
 
 ## HTTP request methods
 - POST: inserir
 - GET: ler
 - PATCH: atualizar
 - DELETE: deletar
-<br>
 
 ## CRUD
 - CREATE
 - READ
 - UPDATE
 - DELETE
-<br>
 
 ## Request e Response
 Request é quando eu faço uma requisição(pedido), posso passar valores também.
